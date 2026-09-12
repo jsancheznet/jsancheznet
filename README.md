@@ -1,6 +1,6 @@
 # C/C++ | Game Programming | Unreal Engine
 
-C/C++ programmer with professional experience developing Unreal Engine applications, multiplayer VR systems, gameplay systems, development tools, and game-related software.
+C/C++ programmer specializing in Unreal Engine applications, multiplayer VR systems, gameplay systems, development tools, systems programming, and game-related software.
 
 ## Featured Projects
 
